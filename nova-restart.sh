@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Swe Aung sirswa[at]gmail[at]com
+# Author: Swe Aung sirswa[at]gmail[dot]com
 # Date: 01/05/2013
 
 function progress () {
