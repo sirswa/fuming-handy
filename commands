@@ -11,3 +11,5 @@ then add the file
 git add newfile / git add . (will add all files)
 git commit -m "Message you want"
 git push
+
+this is just a test
