@@ -1,1 +1,13 @@
+clone the repository
 git clone https://github.com/sirswa/fuming-handy.git
+
+it will create fuming-handy directory in local
+cd fuming-handy
+
+create file/edit file
+vi newfile
+
+then add the file
+git add newfile / git add . (will add all files)
+git commit -m "Message you want"
+git push
